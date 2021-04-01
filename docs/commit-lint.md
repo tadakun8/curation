@@ -13,7 +13,6 @@
     footer?
     ```
 
-
 ### 公式URL
 - [リポジトリ](https://github.com/conventional-changelog/commitlint)
 - [ドキュメント](https://qiita.com/ybiquitous/items/74225bc4bf0a9ddcd7dd)
