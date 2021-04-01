@@ -32,3 +32,6 @@
     - 設定方法
 - [従来のコミットでコミットを改善する](https://ichi.pro/jurai-no-komitto-de-komitto-o-kaizensuru-125427180186905)
     - カスタマイズの例
+- [How to validate github issues / jira issues #237](https://github.com/conventional-changelog/commitlint/issues/237)
+    - カスタマイズの方法
+    - parserPresetを使用している
