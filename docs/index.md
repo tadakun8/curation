@@ -1,4 +1,4 @@
-## Question List
+## Curation List
 
 - [CommitLintとは？](./commit-lint)
 - [Lint staged filesとは？](./lint-staged-file)
@@ -6,3 +6,4 @@
 - [jsconfig.jsonとは？](./jsconfig-json)
 - [Semantic Pull Requestとは？](./semantic-pull-request)
 - [Dependabotとは？](./dependabot)
+- [huskyとは？](./husky)
