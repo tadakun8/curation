@@ -7,3 +7,4 @@
 - [Semantic Pull Requestとは？](./semantic-pull-request)
 - [Dependabotとは？](./dependabot)
 - [huskyとは？](./husky)
+- [Release Drafterとは？](./release-drafter)
