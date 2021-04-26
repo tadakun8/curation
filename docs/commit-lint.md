@@ -13,6 +13,22 @@
     footer?
     ```
 
+## 導入方法
+
+```
+$ npm install --save-dev @commitlint/{cli,config-conventional}
+
+$ echo "module.exports = {extends: ['@commitlint/config-conventional']};" > commitlint.config.js
+```
+
+- package.jsonに以下を追加(nameやscriptと同階層)
+```json
+"husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+}
+```
 ### 公式URL
 
 - [リポジトリ](https://github.com/conventional-changelog/commitlint)
