@@ -3,10 +3,17 @@
 - gitイベントをhookして任意のコマンドを走らせたい場合に使用する**npmツール**
     - commit時に、npm scriptのtestコマンドを走らせたいなど
 
+## 導入方法
+
+```
+$ npm i -D husky@^4
+```
+
 ## 注意点
 
 - huskyのバージョンで、v4からv5二では破壊的な変更されている
     - 参考を参照する
+
 ### 参考
 - [Git で commit 前に 自動でコマンドを実行する #Node.js #husky](https://dev.classmethod.jp/articles/pre-commit/)
     - 説明
